@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-ts-nameof",
+  "version": "1.0.0",
+  "description": "A Nuxt module to add ts-nameof-loader to the rules and enable `nameof()`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kukks/nuxt-ts-nameof.git"
+  },
+  "author": "Kukks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kukks/nuxt-ts-nameof/issues"
+  },
+  "homepage": "https://github.com/Kukks/nuxt-ts-nameof#readme"
+}
